@@ -1,4 +1,4 @@
-%By : mahmoud khalil
+% ©khalil2535 , License : GPL v3
 clear
 clc
 disp('Numerical-Analysis-Program');
